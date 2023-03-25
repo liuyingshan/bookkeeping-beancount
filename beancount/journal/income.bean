@@ -1,0 +1,7 @@
+1990-01-01 open Income:Salary SGD ;
+
+1990-01-01 open Income:Interest:Bank:Dbs SGD ;
+1990-01-01 open Income:Interest:Bank:Uob SGD ;
+1990-01-01 open Income:Interest:Bank:Ocbc SGD ;
+
+1990-01-01 open Income:Cashback:GPay SGD ;

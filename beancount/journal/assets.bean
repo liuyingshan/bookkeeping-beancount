@@ -1,0 +1,9 @@
+1990-01-01 open Assets:Bank:Dbs SGD ;
+1990-01-01 open Assets:Bank:Uob SGD ;
+1990-01-01 open Assets:Bank:Ocbc SGD ;
+
+1990-01-01 open Assets:Wallet:Alipay SGD ;
+
+1990-01-01 open Assets:StashAway SGD ;
+
+1990-01-01 open Assets:Cash:SGD SGD ;

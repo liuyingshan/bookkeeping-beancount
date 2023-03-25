@@ -1,0 +1,14 @@
+include "imported-txns.beancount"
+
+include "pad.bean"
+include "assets.bean"
+include "liabilities.bean"
+include "expenses.bean"
+include "income.bean"
+include "equity.bean"
+; include "accounts.beancount"
+; include "ignored.beancount"
+
+include "manual.bean"
+
+option "operating_currency" "SGD"

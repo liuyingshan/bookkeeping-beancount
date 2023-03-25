@@ -1,0 +1,37 @@
+1990-01-01 open Expenses:Food:Restaurants SGD ;
+1990-01-01 open Expenses:Food:Groceries SGD ;
+1990-01-01 open Expenses:Food:Drink SGD ;
+
+1990-01-01 open Expenses:Transit:Public SGD ;
+1990-01-01 open Expenses:Transit:Taxi SGD ;
+1990-01-01 open Expenses:Transit:Airfare SGD ;
+
+1990-01-01 open Expenses:Beauty:Clothes SGD ;
+1990-01-01 open Expenses:Beauty:Shoes SGD ;
+1990-01-01 open Expenses:Beauty:Accessories SGD ;
+1990-01-01 open Expenses:Beauty:Hair SGD ;
+
+1990-01-01 open Expenses:Utilities:Internet SGD ;
+1990-01-01 open Expenses:Utilities:Electricity SGD ;
+
+1990-01-01 open Expenses:Home:Rent SGD ;
+1990-01-01 open Expenses:Home:Furnishings SGD ;
+1990-01-01 open Expenses:Home:Appliances SGD ;
+1990-01-01 open Expenses:Home:Maintenance SGD ;
+
+1990-01-01 open Expenses:Entertainment:Leisure SGD ;
+1990-01-01 open Expenses:Entertainment:Social SGD ;
+1990-01-01 open Expenses:Entertainment:Subscriptions SGD ;
+
+1990-01-01 open Expenses:Health:Dental SGD ;
+1990-01-01 open Expenses:Health:Tcm SGD ;
+1990-01-01 open Expenses:Health:Consulting SGD ;
+1990-01-01 open Expenses:Health:Vision SGD ;
+
+1990-01-01 open Expenses:Tax SGD ;
+
+1990-01-01 open Expenses:Misc SGD ;
+
+1990-01-01 open Expenses:Trip SGD ;
+
+1990-01-01 open Expenses:FIXME SGD ;
